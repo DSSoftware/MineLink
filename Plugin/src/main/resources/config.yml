@@ -1,0 +1,25 @@
+# MineLink by ArtemDev
+# https://github.com/DSSoftware
+
+# More info about the plugin:
+# https://github.com/DSSoftware/MineLink
+
+# This is a check if plugin wasn't set up properly:
+# If you've set up everything, change this flag to false!
+unconfigured: true
+
+# Put the link of your backend part here
+auth-api: "https://ds-software.xyz/minelink/api.php"
+
+# Put the secret service key here
+secret-key: ""
+
+#########################
+# LOCALIZATION SETTINGS
+#########################
+
+delimiter-top: "&b&l-===== MineLink Verification =====-"
+verification-message: "&7To complete verification, click "
+verification-message2: "&7."
+link-hider: "&e&l[HERE]"
+delimiter-bottom: "&b&l-============================-"

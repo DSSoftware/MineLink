@@ -1,0 +1,7 @@
+name: MineLink
+version: ${project.version}
+main: artemdev.mlink.MineLink
+prefix: MLink
+authors: [ ArtemDev ]
+description: Minecraft Account Linker
+website: https://github.com/DSSoftware/MineLink
